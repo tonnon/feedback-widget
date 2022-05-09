@@ -1,5 +1,6 @@
 {
   "name": "feedback-widget",
+  "homepage": "https://tonnon.github.io/feedback-widget-web/",
   "private": true,
   "version": "0.0.0",
   "scripts": {
